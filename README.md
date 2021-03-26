@@ -1,6 +1,6 @@
 # CrackRP-Bewerbungssystem
 
-Dieses Bewerbungssystem ist noch nicht fertig.
+Dieses Bewerbungssystem ist fertig
 
 Entwickelt wurde es von RoderikTheRed
 
